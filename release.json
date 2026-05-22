@@ -1,8 +1,8 @@
 {
   "app": "newafro-website",
   "channel": "preview",
-  "sha": "1533ac0e5eb3c2dc5c4df3fea9c62ccfe72c0578",
+  "sha": "8f1a69da093a10e58eacbd21c1b9829e6acee3b8",
   "ref": "staging",
   "siteUrl": "https://preview.newafro.com",
-  "builtAt": "2026-05-22T13:14:52.933Z"
+  "builtAt": "2026-05-22T13:34:04.931Z"
 }
